@@ -25,32 +25,30 @@ It provides role-based access for **Admins, Officers, and Citizens** with featur
 ## 📸 Screenshots  
 
 ### 🔐 Login Page  
-<img width="313" height="87" alt="Screenshot 2024-10-03 201031" src="https://github.com/user-attachments/assets/b0b2eb6e-e1dc-4577-8de3-a1eb4cc88c33" />
-
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160149" src="https://github.com/user-attachments/assets/13752d9d-3dc4-478a-8a0a-0007f24c4821" />
 
 ### 🛡️ Admin Dashboard  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160214" src="https://github.com/user-attachments/assets/6050dd99-0a76-4c11-bde7-778c6f159de1" />
-](https://github.com/user-attachments/assets/your-image-id-2)
 
 ### 👮 View Staff  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160249" src="https://github.com/user-attachments/assets/8b5e71bb-3086-40a1-a41f-56be65ae0b63" />
-](https://github.com/user-attachments/assets/your-image-id-3)
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160214" src="https://github.com/user-attachments/assets/36cf25bf-e4ec-4289-bbd8-108d5a03e065" />
+
 
 ### 📂 View Cases  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160329" src="https://github.com/user-attachments/assets/edb9195e-a0d1-484b-a1b0-f4f153c70f88" />
-](https://github.com/user-attachments/assets/your-image-id-4)
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160249" src="https://github.com/user-attachments/assets/769d69fa-82eb-49b1-80fe-c8afcc0c76ee" />
+
 
 ### 📝 Add Complaint  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160501" src="https://github.com/user-attachments/assets/12111136-0f18-4f6a-9d2d-2af2b2dd2d59" />
-](https://github.com/user-attachments/assets/your-image-id-5)
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160329" src="https://github.com/user-attachments/assets/e758d31b-9524-41be-8a20-5edcceb241ea" />
+
 
 ### ✅ Case Saved Confirmation  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160551" src="https://github.com/user-attachments/assets/bbdd90ff-01c6-4a48-9229-b281d723e993" />
-](https://github.com/user-attachments/assets/your-image-id-6)
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160551" src="https://github.com/user-attachments/assets/29b2bcd2-7100-4fc9-ab56-24ec6ff96903" />
+
+
 
 ### 📋 Assigned Cases (Officer View)  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160634" src="https://github.com/user-attachments/assets/a18f510d-64eb-4b37-9013-f71ff2ae71f0" />
-Assigned Cases](https://github.com/user-attachments/assets/your-image-id-7)
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160634" src="https://github.com/user-attachments/assets/7eea0bec-10a6-46ed-a83d-ebacb9aab20a" />
+
 
 
 ---
