@@ -28,17 +28,18 @@ It provides role-based access for **Admins, Officers, and Citizens** with featur
 <img width="1366" height="768" alt="Screenshot 2024-10-06 160149" src="https://github.com/user-attachments/assets/13752d9d-3dc4-478a-8a0a-0007f24c4821" />
 
 ### 🛡️ Admin Dashboard  
-
-### 👮 View Staff  
 <img width="1366" height="768" alt="Screenshot 2024-10-06 160214" src="https://github.com/user-attachments/assets/36cf25bf-e4ec-4289-bbd8-108d5a03e065" />
 
 
-### 📂 View Cases  
+### 👮 View Staff  
 <img width="1366" height="768" alt="Screenshot 2024-10-06 160249" src="https://github.com/user-attachments/assets/769d69fa-82eb-49b1-80fe-c8afcc0c76ee" />
+### 📂 View Cases  
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160329" src="https://github.com/user-attachments/assets/e758d31b-9524-41be-8a20-5edcceb241ea" />
 
 
 ### 📝 Add Complaint  
-<img width="1366" height="768" alt="Screenshot 2024-10-06 160329" src="https://github.com/user-attachments/assets/e758d31b-9524-41be-8a20-5edcceb241ea" />
+<img width="1366" height="768" alt="Screenshot 2024-10-06 160501" src="https://github.com/user-attachments/assets/24186be6-6c53-4855-bfe4-e1e9a04936d4" />
+
 
 
 ### ✅ Case Saved Confirmation  
