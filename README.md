@@ -25,8 +25,8 @@ It provides role-based access for **Admins, Officers, and Citizens** with featur
 ## 📸 Screenshots  
 
 ### 🔐 Login Page  
-![<img width="1366" height="768" alt="Screenshot 2024-10-06 160149" src="https://github.com/user-attachments/assets/528051e9-906f-4948-b9b5-70f1d8a71e2b" />
-](https://github.com/user-attachments/assets/your-image-id-1)
+![
+](<img width="1366" height="768" alt="Screenshot 2024-10-06 160149" src="https://github.com/user-attachments/assets/528051e9-906f-4948-b9b5-70f1d8a71e2b" />)
 
 ### 🛡️ Admin Dashboard  
 ![<img width="1366" height="768" alt="Screenshot 2024-10-06 160214" src="https://github.com/user-attachments/assets/6050dd99-0a76-4c11-bde7-778c6f159de1" />
