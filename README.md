@@ -23,7 +23,27 @@ It provides role-based access for **Admins, Officers, and Citizens** with featur
 ---
 
 ## 📸 Screenshots  
-![Project Preview](combined_preview.png)
+
+### 🔐 Login Page  
+![Login Page](https://github.com/user-attachments/assets/your-image-id-1)
+
+### 🛡️ Admin Dashboard  
+![Admin Dashboard](https://github.com/user-attachments/assets/your-image-id-2)
+
+### 👮 View Staff  
+![View Staff](https://github.com/user-attachments/assets/your-image-id-3)
+
+### 📂 View Cases  
+![View Cases](https://github.com/user-attachments/assets/your-image-id-4)
+
+### 📝 Add Complaint  
+![Add Complaint](https://github.com/user-attachments/assets/your-image-id-5)
+
+### ✅ Case Saved Confirmation  
+![Case Saved](https://github.com/user-attachments/assets/your-image-id-6)
+
+### 📋 Assigned Cases (Officer View)  
+![Assigned Cases](https://github.com/user-attachments/assets/your-image-id-7)
 
 
 ---
