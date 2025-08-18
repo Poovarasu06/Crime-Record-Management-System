@@ -25,25 +25,32 @@ It provides role-based access for **Admins, Officers, and Citizens** with featur
 ## 📸 Screenshots  
 
 ### 🔐 Login Page  
-![Login Page](https://github.com/user-attachments/assets/your-image-id-1)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160149" src="https://github.com/user-attachments/assets/528051e9-906f-4948-b9b5-70f1d8a71e2b" />
+](https://github.com/user-attachments/assets/your-image-id-1)
 
 ### 🛡️ Admin Dashboard  
-![Admin Dashboard](https://github.com/user-attachments/assets/your-image-id-2)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160214" src="https://github.com/user-attachments/assets/6050dd99-0a76-4c11-bde7-778c6f159de1" />
+](https://github.com/user-attachments/assets/your-image-id-2)
 
 ### 👮 View Staff  
-![View Staff](https://github.com/user-attachments/assets/your-image-id-3)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160249" src="https://github.com/user-attachments/assets/8b5e71bb-3086-40a1-a41f-56be65ae0b63" />
+](https://github.com/user-attachments/assets/your-image-id-3)
 
 ### 📂 View Cases  
-![View Cases](https://github.com/user-attachments/assets/your-image-id-4)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160329" src="https://github.com/user-attachments/assets/edb9195e-a0d1-484b-a1b0-f4f153c70f88" />
+](https://github.com/user-attachments/assets/your-image-id-4)
 
 ### 📝 Add Complaint  
-![Add Complaint](https://github.com/user-attachments/assets/your-image-id-5)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160501" src="https://github.com/user-attachments/assets/12111136-0f18-4f6a-9d2d-2af2b2dd2d59" />
+](https://github.com/user-attachments/assets/your-image-id-5)
 
 ### ✅ Case Saved Confirmation  
-![Case Saved](https://github.com/user-attachments/assets/your-image-id-6)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160551" src="https://github.com/user-attachments/assets/bbdd90ff-01c6-4a48-9229-b281d723e993" />
+](https://github.com/user-attachments/assets/your-image-id-6)
 
 ### 📋 Assigned Cases (Officer View)  
-![Assigned Cases](https://github.com/user-attachments/assets/your-image-id-7)
+![<img width="1366" height="768" alt="Screenshot 2024-10-06 160634" src="https://github.com/user-attachments/assets/a18f510d-64eb-4b37-9013-f71ff2ae71f0" />
+Assigned Cases](https://github.com/user-attachments/assets/your-image-id-7)
 
 
 ---
